@@ -1,6 +1,9 @@
-h1{color:orange;
-    font-size: 50px;
-    font-weight: 500;}
-    
+#thanks{
+background-image: url(./images.jpg);
+background-size:contain;
 
-h2{ background-color: maroon;}
+}
+#dinner{
+font-size: 100px;
+text-align: center;
+}
