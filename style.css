@@ -1,9 +1,17 @@
 #thanks{
-background-image: url(./images.jpg);
+/* background-image: url(./images\ \(4\).jpg);
 background-size:contain;
-
+background-position: center; */
+background-color: brown;
 }
 #dinner{
 font-size: 100px;
 text-align: center;
+color:rgb(230, 42, 9)
+}
+
+#answer{
+    font-size: 40px;
+    color: rgb(238, 145, 5);
+    word-wrap: break-word;
 }
